@@ -50,7 +50,7 @@ Structure-Aware Graph Symbolization.
 
 ### Step 2: Train AGREL
 
-Choose either the global-pooling or hierarchical-pooling variant:
+Choose either the global-pooling or hierarchical-pooling variant.
 
 
 

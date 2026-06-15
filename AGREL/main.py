@@ -168,7 +168,7 @@ if __name__ == '__main__':
     logging.info('Total Parameters : %d' % tally_param(model))
     logging.info('#' * 100)
     model.to(device)
-    loss_function = CrossEntropyLoss(weight=torch.from_numpy(np.array([1,1,2])).float(),reduction='sum')
+    loss_function = CrossEntropyLoss(weight=torch.from_numpy(np.array([1,1.2])).float(),reduction='sum')
     loss_function.to(device)
     LR = 1e-4
 

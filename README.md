@@ -1,5 +1,5 @@
 # AGREL
-## Implementation of "A Unified Framework for Code Vulnerability Detection via Adaptive Pooling and Symbolic Relational Graph Representation"
+## Implementation of ""
 
 This repository contains the implementation of **AGREL**, a graph neural network framework for code vulnerability detection that combines structure-aware graph symbolization with dynamic self-attention pooling.
 

@@ -1,8 +1,4 @@
 
-## Implementation of ""
-
-This repository contains the implementation of **AGREL**, a graph neural network framework for code vulnerability detection that combines structure-aware graph symbolization with dynamic self-attention pooling.
-
 ## Requirements
 
 - Python 3.9+

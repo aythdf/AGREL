@@ -10,7 +10,7 @@
 ## Joern Setup
 
 AGREL uses Joern for code property graph (CPG) extraction. We follow
-the **same Joern version used by AMPLE ** to
+the same Joern version used by AMPLE to
 ensure consistent graph construction with prior work. Specifically:
 
 - Joern version: as released with the AMPLE artifact
